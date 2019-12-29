@@ -5,13 +5,13 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 require "tardis/version"
 
 Gem::Specification.new do |spec|
-  spec.name = "tardis"
+  spec.name = "tardis_fork"
   spec.version = Tardis::VERSION
-  spec.authors = ["Kurtis Rainbolt-Greene"]
-  spec.email = ["me@kurtisrainboltgreene.name"]
+  spec.authors = ["Kurtis Rainbolt-Greene", "Alexander Popov"]
+  spec.email = ["me@kurtisrainboltgreene.name", "alex.wayfer@gmail.com"]
   spec.summary = %q{A library for managing units of time and traversal of time.}
   spec.description = spec.summary
-  spec.homepage = "http://krainboltgreene.github.io/tardis.gem"
+  spec.homepage = "https://github.com/AlexWayfer/tardis"
   spec.license = "MIT"
 
   spec.files = Dir[File.join("lib", "**", "*")]

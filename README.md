@@ -5,12 +5,12 @@ tardis
   - [![Coverage](http://img.shields.io/codeclimate/coverage/github/krainboltgreene/tardis.gem.svg?style=flat-square)](https://codeclimate.com/github/krainboltgreene/tardis.gem)
   - [![Build](http://img.shields.io/travis-ci/krainboltgreene/tardis.gem.svg?style=flat-square)](https://travis-ci.org/krainboltgreene/tardis.gem)
   - [![Dependencies](http://img.shields.io/gemnasium/krainboltgreene/tardis.gem.svg?style=flat-square)](https://gemnasium.com/krainboltgreene/tardis.gem)
-  - [![Downloads](http://img.shields.io/gem/dtv/tardis.svg?style=flat-square)](https://rubygems.org/gems/tardis)
+  - [![Downloads](http://img.shields.io/gem/dtv/tardis_fork.svg?style=flat-square)](https://rubygems.org/gems/tardis_fork)
   - [![Tags](http://img.shields.io/github/tag/krainboltgreene/tardis.gem.svg?style=flat-square)](http://github.com/krainboltgreene/tardis.gem/tags)
   - [![Releases](http://img.shields.io/github/release/krainboltgreene/tardis.gem.svg?style=flat-square)](http://github.com/krainboltgreene/tardis.gem/releases)
   - [![Issues](http://img.shields.io/github/issues/krainboltgreene/tardis.gem.svg?style=flat-square)](http://github.com/krainboltgreene/tardis.gem/issues)
   - [![License](http://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](http://opensource.org/licenses/MIT)
-  - [![Version](http://img.shields.io/gem/v/tardis.svg?style=flat-square)](https://rubygems.org/gems/tardis)
+  - [![Version](http://img.shields.io/gem/v/tardis_fork.svg?style=flat-square)](https://rubygems.org/gems/tardis_fork)
 
 
 A library for managing units of time and traversal of time.
@@ -61,7 +61,7 @@ Installing
 
 Add this line to your application's Gemfile:
 
-    gem "tardis", "1.0.0"
+    gem "tardis_fork", "1.0.0"
 
 And then execute:
 
@@ -69,7 +69,7 @@ And then execute:
 
 Or install it yourself with:
 
-    $ gem install tardis
+    $ gem install tardis_fork
 
 
 Contributing
